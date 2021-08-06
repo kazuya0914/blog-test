@@ -1,10 +1,10 @@
 # Git六行配置
-`git config --global user.name 你的英文名`
-`git config --global user.email 你的邮箱`
-`git config --global push.default simple`
-`git config --global core.quotepath false`
-`git config --global core.editor "code --wait"`
-`git config --global core.autocrlf input`
+* `git config --global user.name 你的英文名`
+* `git config --global user.email 你的邮箱`
+* `git config --global push.default simple`
+* `git config --global core.quotepath false`
+* `git config --global core.editor "code --wait"`
+* `git config --global core.autocrlf input`
 # Git命令
 * `git init`
 初始化git本地仓库,创建一个.git目录
