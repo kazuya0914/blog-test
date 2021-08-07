@@ -16,7 +16,7 @@
 -v (verbose) 会用编辑器打开，可以写较长的描述，同时能帮你回顾修改了哪些内容
 * `git log`
 查看每一次提交的时间，同时查看提交的版本号
-*`git reflog`
+* `git reflog`
 更简洁，能查看所有改动包括reset的HEAD编号和提交描述
 * `git reset --hard xxxxx`
 接之前提交的HEAD编号，可以回滚到之前提交的代码状态
